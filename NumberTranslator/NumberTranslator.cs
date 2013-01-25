@@ -1,4 +1,4 @@
-﻿namespace GettyImages.Interviews
+﻿namespace Interviews.NumberTranslator
 {
     public class NumberTranslator
     {
